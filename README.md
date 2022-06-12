@@ -5,7 +5,7 @@ To analyze the bike trips dataset of New York Citi Bike and create data visualiz
 
 
 ### Resources
-+ **Software:** Tableau Public, Jupyter Notebook
++ **Software:** Tableau Public, Jupyter Notebook, Python3
 + **Datasource:** NYC Citi Bike's trip history data of August 2019, downloaded from [CitiBikeSystemData](https://ride.citibikenyc.com/system-data)
 <br />(Converted the trip duration's data type to date time using Jupyter Notebook)
 

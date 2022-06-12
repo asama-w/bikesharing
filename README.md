@@ -11,7 +11,7 @@ To analyze the bike trips dataset of New York Citi Bike and create data visualiz
 
 ### Analysis Results
 #### Project Visualizations
-+ **Link to the analysis on Tableau Public:** [NYC CitiBike Aug-2019-Trips Analysis](link)
++ **Link to the analysis on Tableau Public:** [NYC CitiBike Aug-2019-Trips Analysis](https://public.tableau.com/app/profile/asama.wongbusarakhum/viz/NYCCitiBikeAnalysis-Challenge14/NYCCitiBikeAug2019Analysis?publish=yes)
 + **Code for tripduration datatype convertion:** [NYC_Citibike_Challenge.ipynb](https://github.com/asama-w/bikesharing/blob/main/NYC_Citibike_Challenge.ipynb)
 
 This project analyzes the NYC Citi Bike trip history dataset of the month of August 2019.
